@@ -1,0 +1,16 @@
+Font: Montserrat /  Lora + fontello
+
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;
+
+top-bar: #2b2d34;
+top-form: #d7d7d7;
+top-nav-text: #282828;
+circle-arrow-button: #262626;
+promo-offer-border:hover: #67a4be;
+small-nav-top: #a0a0a0;
+
+logo:
+max-width: 100%;
+max-height: PIX;
+height, width: auto;
