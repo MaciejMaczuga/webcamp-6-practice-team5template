@@ -33,4 +33,4 @@ $(".slider").slick({
     const nav = document.getElementsByClassName('nav-wrapper');
     nav[0].classList.toggle('show');
   }
-  document.querySelector('.fa-bars').addEventListener('click', classToggle)
+  document.querySelector('.icon-bars').addEventListener('click', classToggle)
