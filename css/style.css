@@ -348,7 +348,7 @@ input[type="search"]::-webkit-search-cancel-button {
 h2 {
   font-family: "lora";
   font-size: 4rem;
-  font-weight: 200;
+  font-weight: normal;
   line-height: 4rem;
   padding: 10px 0;
 }
@@ -451,7 +451,7 @@ h3 {
 .promo h2 {
   font-family: "Lora";
   font-size: 2.6rem;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: -1px;
   margin-bottom: 35px;
   text-align: center;
@@ -739,8 +739,8 @@ footer .container {
   margin: 0 auto;
 }
 @media screen and (min-height: 768px) and (min-width: 1200px) {
-}
 
+}
 @media screen and (max-width: 979px) {
   .basket-menu {
     margin: 0 auto;
